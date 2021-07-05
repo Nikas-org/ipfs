@@ -44,6 +44,8 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 - Merge & Unify
 - Centralize
 
+---
+
 ## Topics
 - Directing efforts
 - user onboarding
@@ -70,6 +72,8 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 - our advantages and disadvantages
 - insights
 
+---
+
 ## Ideas
 
 - Partnership with universities, libraries and whatnot, that could help workers find reliable work space, Wi-Fi, and fight loneliness.
@@ -85,6 +89,8 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 - Create living design system/style guide/branding guidelines
 - Podcast
 - Institutional videos that employees can show employers to influence adoption
+
+---
 
 ## References
 
