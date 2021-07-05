@@ -63,7 +63,7 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 - Gamify the learning and usage experience
 - Write articles, tutorials, and tools that relate to people's interests and day-to-day activities.
 
-### Ideas #2?
+### Ideas #2
 
 - IPFS Rebranding
 - IPFS Landing Page Redesign
