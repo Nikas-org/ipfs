@@ -85,6 +85,70 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 
 ---
 
+## Adoption Paths
+
+- Integrability
+- Ease of use (Usability)
+- User interface
+    - Less time to setup and start working
+- Documentation
+- Extensibility
+- Stability
+- Compatibility
+- Scalability
+- Security
+- Robustness
+- Portability
+- Operability
+- Management
+- Fault tolerance
+- Flexibility
+- Interoperability
+- Emotional factors
+- Performance
+- Accessibility
+- Adaptability
+- Auditability
+- Availability
+- Backup
+- Capacity
+- Compliance
+- Configuration management
+- Data integrity
+- Data retention
+- Dependency on other parties
+- Deployment
+- Development environment
+- Disaster recovery
+- Durability
+- Efficiency (resource consumption for given load)
+- Effectiveness (resulting performance in relation to effort)
+- Elasticity
+- Platform compatibility
+- Privacy (compliance to privacy laws)
+- Reusability
+- Safety
+- Resilience
+- Quality
+- Certification
+- Cost
+- Deployment
+- Modifiability
+- Stability
+- Testability
+- Supportability
+- Transparency
+- Complexity
+- Comprehensability
+- Changeability
+- Analyzability
+
+## Other
+
+- We need a straight-forward path: Who we want to adopt our technology first? Who's our main target?
+
+---
+
 ## References
 
 > Drive domain expertise in running open source projects by codifying best practices and creating scalable playbooks.
