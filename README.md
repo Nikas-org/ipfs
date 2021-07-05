@@ -30,6 +30,20 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 
 13. eBook
 
+## Outline #2
+1. Standardize
+2. Consistency
+3. Guidelines
+4. Style Guides
+5. Minimize
+6. Review (e.g., what's old)
+7. Modularize
+8. Unite / Relocate
+
+### Other
+- Merge & Unify
+- Centralize
+
 ## Topics
 - Directing efforts
 - user onboarding
