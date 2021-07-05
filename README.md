@@ -11,23 +11,18 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 5. Projects
     - Merge & Unify
 6. Documentation
-
 7. Brand Identity
 8. Style Guides
 9. Guidelines
-
 10. Marketing
     - Social Media
     - YouTube Channels & Videos
-
 11. Community
-
 12. Recruitment
     - UX Research
     - UX Design
     - DX Research
     - DX Design
-
 13. eBook
 
 ## Outline #2
@@ -39,10 +34,8 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 6. Review (e.g., what's old)
 7. Modularize
 8. Unite / Relocate
-
-### Other
-- Merge & Unify
-- Centralize
+    - Merge & Unify
+    - Centralize
 
 ---
 
