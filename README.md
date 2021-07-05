@@ -61,7 +61,16 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 - Partnership with universities, libraries and whatnot, that could help workers find reliable work space, Wi-Fi, and fight loneliness.
 - Build useful tools to common problems to showcase the technology.
 - Gamify the learning and usage experience
-- Write articles, tutorials, and tools that relate to people's interests and day-to-day activities. 
+- Write articles, tutorials, and tools that relate to people's interests and day-to-day activities.
+
+### Ideas #2?
+
+- IPFS Rebranding
+- IPFS Landing Page Redesign
+- Create icon set
+- Create living design system/style guide/branding guidelines
+- Podcast
+- Institutional videos that employees can show employers to influence adoption
 
 ## References
 
