@@ -9,26 +9,26 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 3. Technologies
 4. Architecture
 5. Projects
-    1. Merge & Unify
+    - Merge & Unify
 6. Documentation
 
-- Style Guides
-- Guidelines
-- Brand Identity & Guidelines
+7. Brand Identity
+8. Style Guides
+9. Guidelines
 
-- Marketing
-  - Social Media
-  - YouTube Channels & Videos
+10. Marketing
+    - Social Media
+    - YouTube Channels & Videos
 
-- Community
+11. Community
 
-- Recruitment
-  - UX Research
-  - UX Design
-  - DX Research
-  - DX Design
+12. Recruitment
+    - UX Research
+    - UX Design
+    - DX Research
+    - DX Design
 
-- eBook
+13. eBook
 
 ## Topics
 - Directing efforts
