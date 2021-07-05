@@ -9,7 +9,7 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 3. Technologies
 4. Architecture
 5. Projects
-5.1. Merge & Unify
+    1. Merge & Unify
 6. Documentation
 
 - Style Guides
