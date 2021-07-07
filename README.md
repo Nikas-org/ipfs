@@ -145,7 +145,7 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 
 ## Other
 
-- We need a straight-forward path: Who we want to adopt our technology first? Who's our main target?
+- We need a straight-forward path: Who we want to be adopting our technology first? Who's our main target?
 
 ---
 
