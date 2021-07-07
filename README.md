@@ -153,6 +153,8 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 
 - Start with a minimal, bundled tool that installs IPFS with minimal requirements, privacy-focused defaults, with P2P deactivated, and slowly transition into P2P activation while we educate people on how it works, their privacy concerns, and the security of allowing P2P networking.
 
+---
+
 ## References
 
 > Drive domain expertise in running open source projects by codifying best practices and creating scalable playbooks.
