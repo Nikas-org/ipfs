@@ -152,6 +152,9 @@ My notes for everything IPFS-related. Feel free to collaborate, and let's discus
 ## Roadmap #1
 
 - Start with a minimal, bundled tool that installs IPFS with minimal requirements, privacy-focused defaults, with P2P deactivated, and slowly transition into P2P activation while we educate people on how it works, their privacy concerns, and the security of allowing P2P networking.
+- Content strategy
+- User and market research
+- Detection of Misconfiguration Vulnerabilities in Distributed (Web) Environments
 
 ---
 
